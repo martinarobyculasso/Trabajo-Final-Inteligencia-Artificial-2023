@@ -8,3 +8,4 @@ El proyecto consiste en el desarrollo de un agente de software para una máquina
 - code/poo/: implementación orientada a objetos del sistema. Este es el código que se debe ejecutar desde main.py para utilizar la aplicación.
 - code/prueba_audio/ y code/prueba_imagen/: aquí se almacenan los códigos utilizados para la fase de entrenamiento de los algoritmos. No es necesario utilizarlos, pero se incluyen como parte de la documentación.
 - dataset/: incluye los conjuntos de entrenamiento y prueba de imágenes y audios.
+- frit.png: muestra el circuito diseñado para poder mostrar la fruta pedida y el estante en donde se encuentra a través de una pantalla LCD, al mismo tiempo que se enciende un LED correspondiente a la fruta. 
